@@ -1,0 +1,46 @@
+{
+    "courses" : [
+        {
+            "title" : "Advance diploma in Japanese history",
+            "description" : "Lorem ipsum lorem ipsum dolor amet sit dolores lorem ipsum dolor sit amet color so riolo dor lorem ipsum dolor lorem ipsum sit amet...",
+            "color" : "#00539CFF",
+            "linkOne" : "https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements",
+            "linkTwo" : "https://www.chia-anime.me/?utm_campaign=free-traffic&utm_source=solutions-softonic-com&utm_medium=referral"
+        },
+        {
+            "title" : "Practical process in marine sciences and engineering",
+            "description" : "Lorem ipsum lorem ipsum dolor amet sit dolores lorem ipsum dolor sit amet color so riolo dor lorem ipsum dolor lorem ipsum sit amet...",
+            "color" : "#00203FFF",
+            "linkOne" : "https://smallpdf.com/word-to-pdf",
+            "linkTwo" : "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction"
+        },
+        {
+            "title" : "Professional or advanced diploma in business management and consultation",
+            "description" : "Lorem ipsum lorem ipsum dolor amet sit dolores lorem ipsum dolor sit amet color so riolo dor lorem ipsum dolor lorem ipsum sit amet...",
+            "color" : "#603F83FF",
+            "linkOne" : "https://developer.mozilla.org/en-US/docs/Glossary",
+            "linkTwo" : "https://www.google.com/search?gs_ssp=eJzj4tFP1zc0SspNLihPSzFg9BLNSixLLE4uyiwoUUjMS1HIKixNLaoEAOhWDPw&q=javascript+and+jquery&oq=javascript+an&aqs=chrome.2.69i57j0j46j0l2j69i61j69i60l2.5939j0j7&sourceid=chrome&ie=UTF-8"
+        },
+        {
+            "title" : "Advanced certificate in health and safety practices",
+            "description" : "Lorem ipsum lorem ipsum dolor amet sit dolores lorem ipsum dolor sit amet color so riolo dor lorem ipsum dolor lorem ipsum sit amet...",
+            "color" : "#2A2B2DFF",
+            "linkOne" : "https://twitter.com",
+            "linkTwo" : "https://facebook.com"
+        },
+        {
+            "title" : "Introduction to data analysis and data engineering for industries",
+            "description" : "Lorem ipsum lorem ipsum dolor amet sit dolores lorem ipsum dolor sit amet color so riolo dor lorem ipsum dolor lorem ipsum sit amet...",
+            "color" : "#D9514EFF",
+            "linkOne" : "https://google.com",
+            "linkTwo" : "https://linkedin.com"
+        },
+        {
+            "title" : "Advanced diploma in security practices",
+            "description" : "Lorem ipsum lorem ipsum dolor amet sit dolores lorem ipsum dolor sit amet color so riolo dor lorem ipsum dolor lorem ipsum sit amet...",
+            "color" : "#28334AFF",
+            "linkOne" : "https://www.youtube.com/",
+            "linkTwo" : "https://www.coursera.org/learn/web-development/home/welcome"
+        }
+    ]
+}
